@@ -79,4 +79,11 @@ List<Destination> destinations = [
     description: 'Visit New York for an amazing and unforgettable adventure.',
     activities: activities,
   ),
+  Destination(
+    imageUrl: 'assets/images/newyork.jpg',
+    city: 'Hanoi',
+    country: 'Vietnam',
+    description: 'Visit New York for an amazing and unforgettable adventure.',
+    activities: activities,
+  ),
 ];
